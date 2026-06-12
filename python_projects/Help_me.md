@@ -6,8 +6,6 @@ git add upload test.py
 
 git commit -m "first commit"   
 
-
-
 # 처음 한번만 설정하면 됨.
 git branch -M main
 
