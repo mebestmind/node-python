@@ -1,3 +1,4 @@
+
 1. 기본 기술 스택 (Tech Stack)
 프론트엔드 (UI/화면): React (Node.js 환경 기반)
 
